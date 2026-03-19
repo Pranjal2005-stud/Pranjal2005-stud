@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Pranjal 
 
-<!--
-**Pranjal2005-stud/Pranjal2005-stud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Building AI-powered products  
+ Currently working on: AI Companion & sustainability-based AI  
+ Interested in: LLMs, Backend Systems, Real-world AI apps  
 
-Here are some ideas to get you started:
+##  Tech Stack
+- Python, FastAPI
+- OpenTelemetry
+- AWS, Docker (learning)
+- JavaScript
+- Java 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Projects
+- AI Companion Backend (LLM-based chatbot with memory)
+- API Cost Analyzer (monitoring + observability)
+- Skin Disease Recognition(Yet to be added on Github)
+
+##  Connect with me
+- LinkedIn: (Pranjal Raghuwanshi)
