@@ -12,7 +12,10 @@
 - Java 
 
 ##  Projects
-- AI Companion Backend (LLM-based chatbot with memory)
+- AI Companion:
+→ Built a conversational AI with session-based memory  
+→ Designed backend to handle dynamic personalities  
+→ Learned prompt engineering + memory optimization
 - API Cost Analyzer (monitoring + observability)
 - Skin Disease Recognition(Yet to be added on Github)
 
