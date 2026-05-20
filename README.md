@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Hey%2C%20I'm%20Pranjal%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20%26%20Backend%20Engineer%20%E2%80%94%20Building%20Intelligent%2C%20Real-World%20Systems&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hey,%20I'm%20Pranjal&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 
 </div>
 
@@ -224,9 +224,9 @@ class Pranjal:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranjal2005-stud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal2005-stud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pranjal2005-stud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pranjal2005-stud&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
