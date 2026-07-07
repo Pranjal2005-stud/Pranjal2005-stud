@@ -46,7 +46,7 @@ class Pranjal:
         "Healthcare AI & Financial Fraud Detection",
         "Real-world ML Deployment",
     ]
-    currently  = "AI Companion + Sustainability-based AI systems"
+    currently  = "FreightFlow- Shipping and goods transportation application."
     philosophy = "Clean architecture. Observable AI. Production-first engineering."
 ```
 
